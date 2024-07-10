@@ -1,9 +1,7 @@
 {
     "name": "Spunkshui",
     "version": "0.0.1",
-    "authors": [
-        "Tom Deneire"
-    ],
-    "description": "My personal zed theme",
+    "authors": ["Tom Deneire"],
+    "description": "My personal Zed theme",
     "repository": "https://github.com/tomdeneire/zed-spunkshui"
 }
